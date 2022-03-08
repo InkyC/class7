@@ -7,4 +7,4 @@ eleventyNavigation:
 # {{ title }}
 ## Greetings!
 
-Welcome to my site!
+Welcome!

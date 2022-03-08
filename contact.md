@@ -7,6 +7,6 @@ eleventyNavigation:
 # {{ title }}
 This is the contact page! 
 
-Oh Man.
+But, oh man..
 
 There's nothing on it.

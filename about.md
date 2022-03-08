@@ -5,4 +5,4 @@ eleventyNavigation:
     key: About Me
 ---
 # {{ title }}
-This is a little about me.
+Not too much to say..
